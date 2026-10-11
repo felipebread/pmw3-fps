@@ -87,7 +87,7 @@ Version 1.0.0 was tested at 144 FPS with:
 ## Source and development
 
 To build the ASI, follow [src/BUILD.md](src/BUILD.md). The build script is
-`src/build.ps1`, and generated distribution files are placed in `dist/`.
+`src/build.ps1`.
 
 See [TECHNICAL.md](TECHNICAL.md) for the full timing analysis and implementation
 details.
@@ -107,6 +107,6 @@ This project is available under the MIT License. See `LICENSE` for details.
 MinHook is distributed under its own BSD license; its license is included with
 the project.
 
-### Disclaimer
+### <sup><sub>Disclaimer</sub></sup>
 
 <sup><sub>Development of this project may have been assisted by a generative pre-trained transformer.</sub></sup>
