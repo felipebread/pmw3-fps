@@ -1,0 +1,19 @@
+toolchain/
+vendor/*.zip
+build/
+dist/
+*.zip
+*.log
+.vs/
+.vscode/
+
+# Local game files and generated binaries
+PMA_W32_M.exe
+*.asi
+*.dll
+*.exe
+*.o
+*.obj
+*.pdb
+Thumbs.db
+Desktop.ini
