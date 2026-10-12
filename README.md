@@ -107,6 +107,6 @@ This project is available under the MIT License. See `LICENSE` for details.
 MinHook is distributed under its own BSD license; its license is included with
 the project.
 
-### <sup><sub>Disclaimer</sub></sup>
+## Disclaimer
 
-<sup><sub>Development of this project may have been assisted by a generative pre-trained transformer.</sub></sup>
+AI contributed to the development of this project.
