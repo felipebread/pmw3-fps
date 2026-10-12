@@ -1,6 +1,6 @@
 # Pac-Man has never seen this many frames!
 
-Removes the FPS cap from the PC version of Pac-Man World 3. The target FPS
+Removes the 60 FPS cap from the PC version of Pac-Man World 3. The target FPS
 is configurable through an INI file, with 144 FPS selected by default. This patch targets the
 RELOADED NoDisc PAL version of the game. The supported executable's SHA-256 is:
 
