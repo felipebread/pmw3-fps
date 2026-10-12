@@ -86,12 +86,12 @@ Version 1.0.0 was tested at 144 FPS with:
 
 ## Source and development
 
-To build the ASI, follow [src/BUILD.md](src/BUILD.md). The build script is
-`src/build.ps1`.
-
 ### Disclaimer
 
 AI contributed to the development of this project.
+
+To build the ASI, follow [src/BUILD.md](src/BUILD.md). The build script is
+`src/build.ps1`.
 
 See [TECHNICAL.md](TECHNICAL.md) for the full timing analysis and implementation
 details.
