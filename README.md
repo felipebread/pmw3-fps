@@ -7,6 +7,9 @@ RELOADED NoDisc PAL version of the game. The supported executable's SHA-256 is:
 ```text
 4dda14f6f4269b55e755c8debf252ee6703167408959abc264bbed1fbb4114a9
 ```
+### Disclaimer
+
+AI contributed to the development of this project.
 
 ## Features
 
@@ -85,10 +88,6 @@ Version 1.0.0 was tested at 144 FPS with:
 - Multiple widescreen patches.
 
 ## Source and development
-
-### Disclaimer
-
-AI contributed to the development of this project.
 
 To build the ASI, follow [src/BUILD.md](src/BUILD.md). The build script is
 `src/build.ps1`.
