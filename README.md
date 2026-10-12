@@ -71,6 +71,8 @@ Some animations and camera movements run faster above 60 FPS. General gameplay
 and player movement worked correctly during testing, but a complete playthrough
 at every possible frame rate has not been verified.
 
+The game also appears to have a hard-coded 200 FPS limit.
+
 ## Uninstallation
 
 Close the game and remove:
