@@ -69,9 +69,10 @@ Refer to TECHNICAL.md.
 
 Some animations and camera movements run faster above 60 FPS. General gameplay
 and player movement worked correctly during testing, but a complete playthrough
-at every possible frame rate has not been verified.
+at every possible frame rate has not been verified. It does appear that ~144 FPS
+is completely playable.
 
-The game also appears to have a hard-coded 200 FPS limit.
+At 500+ FPS the game becomes unbearably fast.
 
 ## Uninstallation
 
