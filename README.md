@@ -109,6 +109,6 @@ details.
 
 ## License
 
-This project is available under the MIT License. See `LICENSE` for details.
+This project is available under public domain. See `LICENSE` for details.
 MinHook is distributed under its own BSD license; its license is included with
 the project.
